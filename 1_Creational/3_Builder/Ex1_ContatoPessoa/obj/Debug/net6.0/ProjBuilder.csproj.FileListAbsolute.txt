@@ -1,0 +1,15 @@
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\bin\Debug\net6.0\ProjBuilder.exe
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\bin\Debug\net6.0\ProjBuilder.deps.json
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\bin\Debug\net6.0\ProjBuilder.runtimeconfig.json
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\bin\Debug\net6.0\ProjBuilder.dll
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\bin\Debug\net6.0\ProjBuilder.pdb
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.csproj.AssemblyReference.cache
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.AssemblyInfoInputs.cache
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.AssemblyInfo.cs
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.csproj.CoreCompileInputs.cache
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.dll
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\refint\ProjBuilder.dll
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.pdb
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ProjBuilder.genruntimeconfig.cache
+E:\01 - Estudo\04 - Projetos\Padrões de projeto Modelos\Padrao Projeto Builder\ProjBuilder\obj\Debug\net6.0\ref\ProjBuilder.dll
