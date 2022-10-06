@@ -1,0 +1,14 @@
+finalidade___________________
+    Utiliado quando se tem diferntes tarefas a serem executadas depois de um determinado processo.
+
+Ex.: Após emitir uma nota fiscal, deve-se enviar um email para a pessoa, armazenar no banco, etc...
+
+
+1. 
+
+
+
+
+
+
+
