@@ -1,2 +1,0 @@
-    O exemplo a seguir demonstra o padrão de projeto Strategy, que tem como objetivo 
-separar o codigo em camadas onde cada uma possui sua funcionalidade definida.
