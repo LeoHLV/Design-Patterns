@@ -1,0 +1,19 @@
+Finalidade: criar objetos sem expor a lógica de criação de objeto ao cliente.
+
+    Definir uma interface para criar objetos e permitir que subclasses decidam 
+qual classe instanciar.
+    Permitir que Clientes não precisem saber quais tipos de objetos serão criados.
+
+    Usa herança e depende de uma subclasse para tratar com a instanciação do 
+objeto desejado
+
+    Cria uma instância de varias classes derivadas.
+
+    A subclasse Factory possui possue controle total sobre o processo de criação dos 
+projetos podendo retornar o tipo desejado ou uma subclasse.
+
+    Remoção do forte acoplamento entre as classes
+
+    Encapsulamento do código que varia (instanciação da classe) em um único local
+
+    Facilita a manutenção do código 
