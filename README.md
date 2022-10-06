@@ -1,5 +1,5 @@
-# Design Patterns
- __| Creational      | Structural   | Behavioral              |
+# Design Patterns                        
+|__| Creational      | Structural   | Behavioral              |
 |--| --------------- | ------------ | ----------------------- |
 |01| Factory Method  | Adopter      | Chain of Responsability |
 |02| Abstract Factory| Bridge       | Command                 |
