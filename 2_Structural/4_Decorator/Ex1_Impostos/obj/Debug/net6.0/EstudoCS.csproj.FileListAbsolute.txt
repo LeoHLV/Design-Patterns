@@ -1,0 +1,30 @@
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.exe
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.deps.json
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.runtimeconfig.json
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.pdb
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.csproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.AssemblyInfoInputs.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.AssemblyInfo.cs
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\refint\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.pdb
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.genruntimeconfig.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\ref\EstudoCS.dll
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\bin\Debug\net6.0\EstudoCS.exe
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\bin\Debug\net6.0\EstudoCS.deps.json
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\bin\Debug\net6.0\EstudoCS.runtimeconfig.json
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\bin\Debug\net6.0\EstudoCS.dll
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\bin\Debug\net6.0\EstudoCS.pdb
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.csproj.AssemblyReference.cache
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.AssemblyInfoInputs.cache
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.AssemblyInfo.cs
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.csproj.CoreCompileInputs.cache
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.dll
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\refint\EstudoCS.dll
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.pdb
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\EstudoCS.genruntimeconfig.cache
+E:\01 - Estudo\04 - Projetos\Design-Patterns\2_Structural\4_Decorator\Ex1_Impostos\obj\Debug\net6.0\ref\EstudoCS.dll
