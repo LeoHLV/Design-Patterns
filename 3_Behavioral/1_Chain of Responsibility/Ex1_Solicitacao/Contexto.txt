@@ -1,0 +1,13 @@
+Fonte - https://www.youtube.com/watch?v=boUfV0-0g2U&t=41s
+
+Definição 
+    
+    Evita acoplar o remetente de uma solicitação a seu receptor, dando aos 
+objetos a chance de lidar com a solicitação.
+
+    Encadeia os objetos receptores e passa a solicitação  ao longo da cadeia 
+até que um objeto a trate.
+
+Simplifica interconexões de objetos
+
+Evita a dependência entre um objeto receptor e solicitante ou destinatário

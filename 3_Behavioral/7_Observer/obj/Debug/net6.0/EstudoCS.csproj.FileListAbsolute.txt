@@ -1,0 +1,15 @@
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.exe
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.deps.json
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.runtimeconfig.json
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\bin\Debug\net6.0\EstudoCS.pdb
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.csproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.AssemblyInfoInputs.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.AssemblyInfo.cs
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\refint\EstudoCS.dll
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.pdb
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\EstudoCS.genruntimeconfig.cache
+C:\Users\Leon\Desktop\EstudoCS\obj\Debug\net6.0\ref\EstudoCS.dll
