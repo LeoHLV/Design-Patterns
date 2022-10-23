@@ -1,3 +1,0 @@
-	aplicado quando se tem um objeto/class complexo de ser criado e possui 
-diversos atributos, possui propriedades extensas e detalhadas onde o construtor,
-terá a função de atribuir elementos ignorando Null ou Empty
